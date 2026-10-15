@@ -12,7 +12,7 @@ The skills are prose instructions, not software, so a Creative Commons license f
 
 License the whole repo under CC BY-NC-SA 4.0:
 
-- **BY**: every copy or adaptation must credit Agent Skills by Nikhil "V3SPER" Sah.
+- **BY**: every copy or adaptation must credit Agent Skills by V3SPER.
 - **NC**: no commercial use, which covers selling the skills and bundling them into a paid product.
 - **SA**: adaptations must use the same license, so nobody can tweak a skill and relicense it as their own.
 

@@ -3,7 +3,7 @@ name: orchestration
 description: Apply Opus-first model routing and delegation for coding, research, tests, PRs, UI, and computer use. Activate when loaded or selected for development work. Send delegation prompts in Homonid ultra and run every subagent in Homonid max.
 license: CC-BY-NC-SA-4.0 (https://github.com/Sah-Nikhil/v3sper-skills)
 metadata:
-  author: Nikhil "V3SPER" Sah
+  author: V3SPER
 ---
 
 # Orchestration

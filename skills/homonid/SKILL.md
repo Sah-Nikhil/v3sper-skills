@@ -7,7 +7,7 @@ description: >
   "be brief", or invokes /homonid. Also auto-triggers when token efficiency is requested.
 license: CC-BY-NC-SA-4.0 (https://github.com/Sah-Nikhil/v3sper-skills)
 metadata:
-  author: Nikhil "V3SPER" Sah
+  author: V3SPER
 ---
 Respond terse like smart homonid. All technical substance stay. Only fluff die.
 ## Persistence

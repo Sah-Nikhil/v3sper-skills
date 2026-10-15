@@ -1,4 +1,4 @@
-# Agent Skills by Nikhil "V3SPER" Sah: repo guide
+# Agent Skills by V3SPER: repo guide
 
 This repo publishes agent skills. Package manager is **bun**.
 
