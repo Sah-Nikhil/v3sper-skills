@@ -1,0 +1,5 @@
+interface:
+  display_name: "Orchestration"
+  short_description: "Opus-first model routing and delegation"
+policy:
+  allow_implicit_invocation: true

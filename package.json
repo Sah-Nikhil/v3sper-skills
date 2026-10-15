@@ -1,0 +1,19 @@
+{
+  "name": "v3sper-skills",
+  "version": "0.1.0",
+  "private": true,
+  "description": "V3SPER Skills: agent skills by Nikhil Sah",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sah-Nikhil/v3sper-skills"
+  },
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "check": "bun scripts/check.mjs",
+    "sync-version": "bun scripts/sync-version.mjs",
+    "list": "bunx skills@latest add . --list",
+    "link": "pwsh -NoProfile -File scripts/link-skills.ps1"
+  },
+  "packageManager": "bun@1.3.11"
+}

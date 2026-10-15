@@ -1,0 +1,17 @@
+{
+  "name": "v3sper",
+  "owner": {
+    "name": "Nikhil Sah",
+    "url": "https://github.com/Sah-Nikhil"
+  },
+  "description": "V3SPER Skills as an installable plugin.",
+  "plugins": [
+    {
+      "name": "v3sper-skills",
+      "source": "./",
+      "description": "Homonid compressed communication and Opus-first multi-agent orchestration.",
+      "category": "productivity",
+      "keywords": ["skills", "orchestration", "token-efficiency"]
+    }
+  ]
+}
