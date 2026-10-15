@@ -1,4 +1,4 @@
-# V3SPER Skills repo
+# Agent Skills by Nikhil "V3SPER" Sah: repo guide
 
 This repo publishes agent skills. Package manager is **bun**.
 
@@ -21,6 +21,10 @@ A skill is either model-invoked (default) or user-invoked:
 2. Add `./skills/<name>` to the `skills` array in `.claude-plugin/plugin.json`.
 3. Add a section to `README.md` under **Skills** that links `./skills/<name>/SKILL.md`.
 4. Run `bun run check`.
+
+## License
+
+CC BY-NC-SA 4.0 (see [ADR 0002](./.agents/adr/0002-license.md)). Every `SKILL.md` frontmatter carries `license: CC-BY-NC-SA-4.0 (https://github.com/Sah-Nikhil/v3sper-skills)` and `metadata.author`. A new skill copies both.
 
 ## Releasing
 

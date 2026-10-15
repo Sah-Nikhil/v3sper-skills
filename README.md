@@ -1,4 +1,4 @@
-# V3SPER Skills
+# Agent Skills by Nikhil "V3SPER" Sah
 
 Skills I use every day with Claude Code, Codex, and other coding agents. They help with two things: getting more finished work out of a subscription, and keeping agent conversation short without losing technical detail.
 
@@ -104,4 +104,10 @@ See [AGENTS.md](./AGENTS.md) for the rules on adding a skill and releasing a ver
 
 ## License
 
-[MIT](./LICENSE)
+[CC BY-NC-SA 4.0](./LICENSE). You can use, share, and adapt these skills for free, including at work, as long as you:
+
+- credit **Agent Skills by Nikhil "V3SPER" Sah** and link this repo
+- don't sell them or use them for commercial advantage, alone or bundled into a paid product
+- release any adapted version under the same license
+
+For commercial licensing, open an issue or contact me through [GitHub](https://github.com/Sah-Nikhil).

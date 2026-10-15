@@ -4,7 +4,7 @@
     "name": "Nikhil Sah",
     "url": "https://github.com/Sah-Nikhil"
   },
-  "description": "V3SPER Skills as an installable plugin.",
+  "description": "Agent Skills by Nikhil \"V3SPER\" Sah, as an installable plugin.",
   "plugins": [
     {
       "name": "v3sper-skills",

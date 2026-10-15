@@ -1,13 +1,13 @@
 {
   "name": "v3sper-skills",
   "version": "0.1.0",
-  "description": "V3SPER Skills: Homonid compressed communication and Opus-first multi-agent orchestration.",
+  "description": "Agent Skills by Nikhil \"V3SPER\" Sah: Homonid compressed communication and Opus-first multi-agent orchestration.",
   "author": {
     "name": "Nikhil Sah",
     "url": "https://github.com/Sah-Nikhil"
   },
   "repository": "https://github.com/Sah-Nikhil/v3sper-skills",
-  "license": "MIT",
+  "license": "CC-BY-NC-SA-4.0",
   "keywords": ["skills", "orchestration", "subagents", "model-routing", "token-efficiency"],
   "skills": [
     "./skills/homonid",

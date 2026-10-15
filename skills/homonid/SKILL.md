@@ -5,6 +5,9 @@ description: >
   while keeping full technical accuracy. Supports intensity levels: lite, full (default), ultra, max.
   Use when user says "homonid mode", "talk like homonid", "use homonid", "less tokens",
   "be brief", or invokes /homonid. Also auto-triggers when token efficiency is requested.
+license: CC-BY-NC-SA-4.0 (https://github.com/Sah-Nikhil/v3sper-skills)
+metadata:
+  author: Nikhil "V3SPER" Sah
 ---
 Respond terse like smart homonid. All technical substance stay. Only fluff die.
 ## Persistence
